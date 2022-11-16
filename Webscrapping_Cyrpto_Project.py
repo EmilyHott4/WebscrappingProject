@@ -68,15 +68,7 @@ for row in tablecells[0:6]:
 
       print()
       
-      #counter = 0
-      #while counter < 6:
-        #print('Please press enter to see the next crypto:')
-        #counter = counter + 1
-        #print('Please press enter to see the next crypto:')
-      #else:
-        #print( "Thank you for using my code.")
-      #print("Press enter to go to next step")
       
       
-      #input()
+      #input()#do this if you want to print each crypto one at a time
 
